@@ -44,8 +44,8 @@
 	}
 	#g-eth_animation-_360 .g-pstyle0 {
 		font-weight:700;
-		line-height:7px;
-		height:7px;
+		line-height:6px;
+		height:6px;
 		letter-spacing:0.25em;
 		font-size:4px;
 		text-transform:uppercase;
@@ -67,25 +67,24 @@
 	}
 	#g-eth_animation-_360 .g-pstyle3 {
 		font-weight:700;
-		line-height:7px;
-		height:7px;
-		font-size:4px;
-		text-align:center;
-		text-transform:uppercase;
-	}
-	#g-eth_animation-_360 .g-pstyle4 {
-		font-weight:700;
 		line-height:10px;
 		height:10px;
 		font-size:8px;
 		color:rgb(88,89,91);
 	}
-	#g-eth_animation-_360 .g-pstyle5 {
+	#g-eth_animation-_360 .g-pstyle4 {
 		font-weight:700;
 		height:8px;
 		letter-spacing:0.1em;
 		text-transform:uppercase;
 		color:rgb(88,89,91);
+	}
+	#g-eth_animation-_360 .g-pstyle5 {
+		font-weight:700;
+		line-height:4px;
+		height:4px;
+		font-size:4px;
+		text-transform:uppercase;
 	}
 	#g-eth_animation-_360 .g-pstyle6 {
 		font-weight:700;
@@ -117,10 +116,6 @@
 	}
 	#g-eth_animation-_360 .g-cstyle0 {
 		text-transform:uppercase;
-	}
-	#g-eth_animation-_360 .g-cstyle1 {
-		font-weight:500;
-		font-style:italic;
 	}
 	#g-eth_animation-_480 {
 		position:relative;
@@ -161,20 +156,19 @@
 	}
 	#g-eth_animation-_480 .g-pstyle2 {
 		font-weight:700;
-		line-height:7px;
-		height:7px;
-		font-size:4px;
-		text-align:center;
-		text-transform:uppercase;
-	}
-	#g-eth_animation-_480 .g-pstyle3 {
-		font-weight:700;
 		line-height:8px;
 		height:8px;
 		letter-spacing:0.1em;
 		font-size:7px;
 		text-transform:uppercase;
 		color:rgb(88,89,91);
+	}
+	#g-eth_animation-_480 .g-pstyle3 {
+		font-weight:700;
+		line-height:4px;
+		height:4px;
+		font-size:4px;
+		text-transform:uppercase;
 	}
 	#g-eth_animation-_480 .g-pstyle4 {
 		font-weight:700;
@@ -215,10 +209,6 @@
 	#g-eth_animation-_480 .g-cstyle0 {
 		text-transform:uppercase;
 	}
-	#g-eth_animation-_480 .g-cstyle1 {
-		font-weight:500;
-		font-style:italic;
-	}
 	#g-eth_animation-_640 {
 		position:relative;
 		overflow:hidden;
@@ -258,18 +248,18 @@
 	}
 	#g-eth_animation-_640 .g-pstyle2 {
 		font-weight:700;
-		line-height:8px;
-		height:8px;
-		font-size:5px;
-		text-align:center;
-		text-transform:uppercase;
-	}
-	#g-eth_animation-_640 .g-pstyle3 {
-		font-weight:700;
-		height:10px;
+		line-height:9px;
+		height:9px;
 		letter-spacing:0.1em;
 		text-transform:uppercase;
 		color:rgb(88,89,91);
+	}
+	#g-eth_animation-_640 .g-pstyle3 {
+		font-weight:700;
+		line-height:5px;
+		height:5px;
+		font-size:5px;
+		text-transform:uppercase;
 	}
 	#g-eth_animation-_640 .g-pstyle4 {
 		font-weight:700;
@@ -309,8 +299,4 @@
 	}
 	#g-eth_animation-_640 .g-cstyle0 {
 		text-transform:uppercase;
-	}
-	#g-eth_animation-_640 .g-cstyle1 {
-		font-weight:500;
-		font-style:italic;
 	}
